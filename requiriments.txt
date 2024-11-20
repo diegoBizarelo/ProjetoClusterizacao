@@ -1,4 +1,0 @@
-pandas
-numpy -- Já vem por padrão no python
-matplotlib
-seaborn
